@@ -12,17 +12,7 @@ I am a self-taught software developer who learned to code by finding more effici
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thanhn062&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhn062&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thanhn062&theme=buddhism&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thanhn062&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=thanhn062&icon=0&color=3)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thanhng0) 
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
