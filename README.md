@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a self-taught software developer who learned to code by finding more efficient ways to play video games. I love learning and exploring new technologies, and I enjoy thinking about how I can utilize them to improve my own and others' quality of life. <br>All of my software and scripts are developed with simplicity in mind. As Leonardo da Vinci said, 'Simplicity is the ultimate sophistication.' and I believe that creating elegant and user-friendly software can make a significant impact on our lives
+I am a self-taught software developer who learned to code by finding more efficient ways to play video games. I love learning and exploring new technologies, and I enjoy thinking about how I can utilize them to improve my own and others' quality of life.
 
 
 ## 🌐 Socials:
