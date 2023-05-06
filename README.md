@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a self-taught software developer who learned to code by finding more efficient ways to play video games. I love learning and exploring new technologies, and I enjoy thinking about how I can utilize them to improve my own and others' quality of life.
+I am a self-taught software developer and I love learning and exploring new technologies.
 
 
 ## 🌐 Socials:
