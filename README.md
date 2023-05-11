@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a self-taught software developer and I love learning and exploring new technologies.
+As a self-taught software developer, I am passionate about exploring and learning new technologies. My coding journey began in middle school when I discovered the joy of creating tools and scripts for gaming. Since then, I have been fascinated by the power of software to enhance everyday life.
+
+I also enjoy exploring the intersection of software and productivity. While my past projects have been primarily gaming-related, I'm excited to explore other areas of software development and apply my skills to new challenges. I believe that software has the power to improve people's lives in countless ways, and I'm eager to be a part of that mission.
 
 
 ## 🌐 Socials:
